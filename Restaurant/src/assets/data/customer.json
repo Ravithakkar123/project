@@ -1,0 +1,34 @@
+[
+    {
+      "CustomerId":1,
+      "CustomerName":"Ravi",
+      "CustomerEmail":"ravi@gmail.com",
+      "CustomerNum": 9745725851,
+      "CustomerPinCode":36003,
+      "CustomerAddress" : "Viramgam"
+    },
+    {
+      "CustomerId":2,
+      "CustomerName":"Viraj",
+      "CustomerEmail":"viraj@gmail.com",
+      "CustomerNum": 7856249745,
+      "CustomerPinCode":34003,
+      "CustomerAddress" : "Jamnagar"
+    },
+    {
+      "CustomerId":3,
+      "CustomerName":"Meet",
+      "CustomerEmail":"meet@gmail.com",
+      "CustomerNum": 8154269745,
+      "CustomerPinCode":31403,
+      "CustomerAddress" : "Bhuj"
+    },
+    {
+      "CustomerId":4,
+      "CustomerName":"Yash",
+      "CustomerEmail":"yash@gmail.com",
+      "CustomerNum": 8154269745,
+      "CustomerPinCode":366533,
+      "CustomerAddress" : "Bhuj"
+    }
+  ]
